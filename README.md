@@ -1,5 +1,5 @@
 # task-imagobsi
-# create a database
+## create a database first
 CREATE DATABASE test1_imago
 USE test1_imago
 
